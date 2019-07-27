@@ -1,0 +1,12 @@
+{
+  "name": "cfc2019",
+  "id": "6769711",
+  "description": "Call for code 2019",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "maulanamania",
+    "id": "836244"
+  }
+}
